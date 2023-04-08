@@ -1,6 +1,7 @@
 applovin.com, a05a307b7bfe2662177eabd48556d597, DIRECT
-#Admob
-google.com, pub-7812393118362507, DIRECT, f08c47fec0942fa0
+#GAdZ
+google.com, pub-2960293519697422, DIRECT, f08c47fec0942fa0
+gameadzone.com, 978, DIRECT
 #Unity
 adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
 adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
