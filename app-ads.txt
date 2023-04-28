@@ -2,8 +2,8 @@ applovin.com, a05a307b7bfe2662177eabd48556d597, DIRECT
 #AM
 google.com, pub-2753570678090927, DIRECT, f08c47fec0942fa0
 #GAZ
-#google.com, pub-2960293519697422, DIRECT, f08c47fec0942fa0
-#gameadzone.com, 1145, DIRECT
+google.com, pub-2960293519697422, DIRECT, f08c47fec0942fa0
+gameadzone.com, 1145, DIRECT
 #Premium Programmatic Demand by publisher@greedygame.com
 google.com, pub-1067374679252537, RESELLER, f08c47fec0942fa0
 google.com, pub-2749054827332983, RESELLER, f08c47fec0942fa0
