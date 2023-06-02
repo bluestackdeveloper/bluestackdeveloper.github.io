@@ -9,8 +9,8 @@ google.com, pub-2753570678090927, DIRECT, f08c47fec0942fa0
 google.com, pub-2960293519697422, DIRECT, f08c47fec0942fa0
 gameadzone.com, 1145, DIRECT
 #FAN
-facebook.com, 159396746854025, DIRECT, c3e20eee3f780d68
-facebook.com, 798475128544661, DIRECT, c3e20eee3f780d68
+facebook.com, 159396746854025, RESELLER, c3e20eee3f780d68
+facebook.com, 798475128544661, RESELLER, c3e20eee3f780d68
 #Unity==========================================================================
 adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
 adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
