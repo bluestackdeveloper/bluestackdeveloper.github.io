@@ -5,6 +5,9 @@ google.com, pub-3184487253168181, RESELLER, f08c47fec0942fa0
 applovin.com, a05a307b7bfe2662177eabd48556d597, DIRECT
 #AM
 google.com, pub-2753570678090927, DIRECT, f08c47fec0942fa0
+#pangle
+pangleglobal.com, 5011558, RESELLER
+pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
 #GAZ
 google.com, pub-2960293519697422, DIRECT, f08c47fec0942fa0
 gameadzone.com, 1145, DIRECT
@@ -142,3 +145,12 @@ yandex.com, 40427798, RESELLER
 yandex.com, 95746987, RESELLER
 yandex.com, 97539269, RESELLER
 yeahmobi.com, 5135195, RESELLER
+Pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
+contextweb.com, 562842, RESELLER, 89ff185a4c4e857c
+contextweb.com, 562944, RESELLER, 89ff185a4c4e857c
+contextweb.com, 562791, RESELLER, 89ff185a4c4e857c
+google.com, pub-2205664388651796, RESELLER
+pubmatic.com, 163420, RESELLER, 5d62403b186f2ace
+xandr.com, 13799, RESELLER
+thebrave.io, 1234634, RESELLER, c25b2154543746ac
+video.unrulymedia.com, 123476257, RESELLER
